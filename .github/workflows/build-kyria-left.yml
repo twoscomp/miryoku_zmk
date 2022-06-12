@@ -1,7 +1,7 @@
 # Copyright 2022 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-name: 'Build Kyria'
+name: 'Build Kyria Left'
 on: workflow_dispatch
 jobs:
   build:
