@@ -13,7 +13,5 @@ jobs:
       custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
       kconfig: '["CONFIG_ZMK_MOUSE=y\nCONFIG_ZMK_RGB_UNDERGLOW=y\nCONFIG_WS2812_STRIP=y\nCONFIG_ZMK_SLEEP=y"]'
       branches: '[
-        "zmkfirmware/zmk/main krikun98/zmk/mouse-pr",
-        "zmkfirmware/zmk/main ftc/zmk/mouse-ftc",
-        "ftc/zmk/mouse-ftc"
+        "zmkfirmware/zmk/main ftc/zmk/mouse-ftc"
       ]'
